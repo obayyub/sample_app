@@ -27,6 +27,7 @@ group :assets do
   # gem 'therubyracer'
 
   gem 'uglifier', '1.2.3'
+  gem 'factory_girl_rails', '4.1.0'
 end
 
 gem 'jquery-rails', '2.0.2'
